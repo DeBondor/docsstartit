@@ -6,8 +6,8 @@ doświadczenia na swoim serwerze. Przejdźmy przez proces konfiguracji krok po k
 
 ## Pierwsze kroki
 
-Aby uzyskać dostęp do funkcji Panelu z przyciskami, należy przejść do panelu StartIT. Gdy już tam będziesz, wybierz wtyczkę "Moderowane
-kanały" z lewego paska bocznego. Następnie znajdź kartę "Panele z przyciskami" i kliknij przycisk "Nowa konfiguracja".
+Aby uzyskać dostęp do funkcji Panelu z przyciskami, należy przejść do panelu StartIT. Gdy już tam będziesz, wybierz plugin "Selfrole" z lewego paska bocznego. 
+Następnie znajdź kartę "Panele z przyciskami" i kliknij przycisk "Nowa konfiguracja".
 
 ![img.png](../assets/v44.png)
 
