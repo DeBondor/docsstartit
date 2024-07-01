@@ -1,15 +1,15 @@
-# Panele z wyborem
+# Select Roles
 
-Witamy w świecie Panele z wyborem, potężnej i wszechstronnej funkcji oferowanej przez naszego bota Discord! Wdrażając
-Panele z wyborem, dajesz członkom swojej społeczności możliwość spersonalizowania ich doświadczenia Discord jak nigdy dotąd.
-Ta unikalna funkcja przedstawia im wygodne menu wyboru, aby bez wysiłku uzyskać określone role do wyboru.
-Sprawdźmy, jak krok po kroku skonfigurować tę wyjątkową funkcjonalność.
+Welcome to the world of Select Roles, a powerful and versatile feature offered by our Discord bot! By implementing
+Select Roles, you grant your community members the ability to personalize their Discord experience like never before.
+This unique feature presents them with a convenient select menu to effortlessly obtain specific roles of their choice.
+Let's explore how to configure this exceptional functionality step by step.
 
-## Pierwsze kroki
+## Getting started
 
-Aby uzyskać dostęp do funkcji Panele z wyborem, wystarczy przejść do pulpitu nawigacyjnego naszego bota Discord. Gdy już tam będziesz, wybierz
-"Selfrole" z lewego paska bocznego. Następnie znajdź zakładkę "Panele z wyborem" i kliknij przycisk
-"Nowa konfiguracja".
+To access the Select Roles feature, simply navigate to the dashboard of our Discord bot. Once you're there, select
+"Moderated channels" plugin from the left sidebar. Then, find the "Select Roles" card and click on the
+"New configuration" button.
 
 ![img_3.png](../assets/v47.png)
 
